@@ -15,3 +15,10 @@ img {
 .container {
   background-image: none;
 }
+p{
+  color: white;
+}
+#row{
+  background-color: salmon;
+
+}
