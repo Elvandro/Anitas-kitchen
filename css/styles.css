@@ -1,0 +1,14 @@
+body {
+
+   text-align: center;
+   font-size: 25px;
+ }
+.back {
+   background-image: url("../img/landing.jpg");
+   background-image:linear-gradient();
+ }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
