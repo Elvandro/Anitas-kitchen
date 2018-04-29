@@ -46,3 +46,8 @@ p.coloring {
   border: 25px solid lightgray;
   margin-top: 60px;
 }
+#ground {
+  margin-top: 40px;
+  background-image: url("../img/foodsBg.jpg");
+
+}
