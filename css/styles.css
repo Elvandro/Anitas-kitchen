@@ -61,8 +61,11 @@ img.marginalized {
 }
 p.centered2 {
   font-size: 25px;
-  color: red;
+  color: salmon;
   text-align: center;
   margin-top: 100px;
   margin-bottom: 100px;
+}
+#red{
+  background-color: salmon;
 }
