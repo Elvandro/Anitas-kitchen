@@ -6,8 +6,10 @@ body {
    margin-right: auto;
    margin-left: auto;
 }
-img {
+img.unique {
   display: block;
+  margin-top: 80px;
+  margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -47,7 +49,10 @@ p.coloring {
   margin-top: 60px;
 }
 #ground {
-  margin-top: 40px;
+  margin-top: 80px;
   background-image: url("../img/foodsBg.jpg");
-
+}
+img.marginalized {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
