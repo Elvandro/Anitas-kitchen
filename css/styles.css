@@ -49,10 +49,20 @@ p.coloring {
   margin-top: 60px;
 }
 #ground {
-  margin-top: 80px;
   background-image: url("../img/foodsBg.jpg");
+  margin-top: 80px;
 }
 img.marginalized {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#fruit {
+  background-image: url("../img/subscribe.jpg");
+}
+p.centered2 {
+  font-size: 25px;
+  color: red;
+  text-align: center;
   margin-top: 100px;
   margin-bottom: 100px;
 }
