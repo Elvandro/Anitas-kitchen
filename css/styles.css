@@ -127,9 +127,8 @@ p.licence {
   text-align: center;
   color: white;
 }
-.stylish {
-  color: white;
-  border: #f15A29;
+p.stylish {
+  color: #f15A29;
 }
 .one{
   position: absolute;
@@ -150,8 +149,7 @@ p.licence {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0, 0.9);
+    background-color: #f15A29;
     overflow-x: hidden;
     transition: 0.5s;
 }
@@ -166,12 +164,12 @@ p.licence {
     padding: 8px;
     text-decoration: none;
     font-size: 36px;
-    color: white;
+    color: black;
     display: block;
     transition: 0.3s;
 }
 .overlay a:hover, .overlay a:focus {
-    color: #f15A29;
+    color: white;
 }
 .overlay .closebtn {
     position: absolute;
@@ -189,11 +187,24 @@ p.licence {
 }
 .menubutton{
   position: absolute;
-  color: white;
+  color: black;
   margin-top: 100px;
   margin-left:100px;
 }
 .emailBox{
   margin-left: 450px;
-  margin-bottom: auto;
+  margin-bottom: 20px;
+}
+.imagez:hover {
+  color:black;
+  opacity: 0.5;
+}
+.burger {
+  color: #f15A29;
+  font-size: 25px;
+  margin-left: 40px;
+}
+#fst {
+  background-color: transparent;
+  color: #f15A29;
 }
