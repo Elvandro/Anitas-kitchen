@@ -24,12 +24,19 @@ p.center {
   text-align: center;
 }
 #salmon {
-  background-color: salmon;
+  background-color: #F15A29;
+  padding: 30px;
+  margin-right: -30px;
+}
+#whited {
+  background-color: lightgray;
   padding: 30px;
   margin-right: -30px;
 }
 #white{
-  padding: 30px;
+  margin-top: 50px;
+  height: 250px;
+  margin-bottom: 50px;
 }
 h1{
   margin-top: 70px;
@@ -43,18 +50,16 @@ p.coloring {
   font-size: 18px;
 }
 .text-box {
+  box-shadow: 10px 10px 10px 0 rgba(0,0,0,0.3);
   height: 440px;
   width: 540px;
-  border: 25px solid lightgray;
+  border: 25px solid white;
   margin-top: 60px;
 }
 #ground {
   background-image: url("../img/foodsBg.jpg");
   height: 599px;
-}
-img.marginalized {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 50px;
 }
 #fruit {
   background-image: url("../img/subscribe.jpg");
@@ -67,7 +72,7 @@ p.centered2 {
   margin-bottom: 100px;
 }
 #red{
-  background-color: red;
+  background-color: #F15A29;
 }
 img.uniqued {
   display: block;
@@ -87,13 +92,38 @@ p.menud {
   margin-left: 550px;
 }
 img.lefty {
-  margin-left: 560px;
+  margin-top: 30px;
+  margin-left: 573px;
 }
 img.righty {
- margin-right:587.5px;
+  margin-top: 30px;
+  margin-right:575px;
+}
+img.centey{
+  margin-top: 30px;
 }
 #chicken {
   background-color: white;
-  height: 350px;
   margin-top: 100px;
+  margin-bottom: 100px;
+  height: 380px;
+  padding-bottom: 50px;
+}
+#line {
+  border-right-style: groove;
+}
+h2{
+  color:#F15A29;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+p.custom {
+  text-align: center;
+}
+p.licence {
+  margin-top: 20px;
+  text-align: center;
+  color: white;
 }
