@@ -82,8 +82,13 @@ h1.menu {
 }
 p.menud {
   color: white;
-
   font-size: 20px;
   margin-top: 120px;
   margin-left: 550px;
+}
+img.lefty {
+  margin-left: 560px;
+}
+img.righty{
+ margin-right:587.5px;
 }
