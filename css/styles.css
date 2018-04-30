@@ -61,18 +61,29 @@ img.marginalized {
 }
 p.centered2 {
   font-size: 25px;
-  color: salmon;
+  color: white;
   text-align: center;
   margin-top: 100px;
   margin-bottom: 100px;
 }
 #red{
-  background-color: salmon;
+  background-color: red;
 }
 img.uniqued {
   display: block;
-  margin-top: 80px;
-  margin-bottom: 40px;
-  margin-left: auto;
-  margin-right: auto;
+  float: left;
+  margin-left: 550px;
+  margin-top: 60px;
+}
+h1.menu {
+  color: white;
+  float:right;
+  margin-right: 550px;
+}
+p.menud {
+  color: white;
+
+  font-size: 20px;
+  margin-top: 120px;
+  margin-left: 550px;
 }
