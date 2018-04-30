@@ -69,3 +69,10 @@ p.centered2 {
 #red{
   background-color: salmon;
 }
+img.uniqued {
+  display: block;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
